@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DFT", "DFT\DFT.vcxproj", "{CC388181-B48F-4648-99D2-2A3CCB700BD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC388181-B48F-4648-99D2-2A3CCB700BD6}.Debug|x64.ActiveCfg = Debug|x64
+		{CC388181-B48F-4648-99D2-2A3CCB700BD6}.Debug|x64.Build.0 = Debug|x64
+		{CC388181-B48F-4648-99D2-2A3CCB700BD6}.Debug|x86.ActiveCfg = Debug|Win32
+		{CC388181-B48F-4648-99D2-2A3CCB700BD6}.Debug|x86.Build.0 = Debug|Win32
+		{CC388181-B48F-4648-99D2-2A3CCB700BD6}.Release|x64.ActiveCfg = Release|x64
+		{CC388181-B48F-4648-99D2-2A3CCB700BD6}.Release|x64.Build.0 = Release|x64
+		{CC388181-B48F-4648-99D2-2A3CCB700BD6}.Release|x86.ActiveCfg = Release|Win32
+		{CC388181-B48F-4648-99D2-2A3CCB700BD6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B433932A-F54B-408E-8750-3AFDCD1C715B}
+	EndGlobalSection
+EndGlobal
